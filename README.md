@@ -1,11 +1,11 @@
-<h1 align="center">Hola👋, me llamo Ulises Madrigal</h1>
-<h3 align="center">Desarrollador Android Jr.</h3>
+<h1 align="center">Hi👋, I'm Ulises Madrigal</h1>
+<h3 align="center">Android Developer Jr.</h3>
 
-<img src="https://www.twitchtime.com/wp-content/uploads/2019/09/kotlin_for_android_banner-1.jpg">
+![MyBanner](https://github.com/UMadrigal/UMadrigal/assets/159212062/0067bd9d-7a04-40cb-ae87-777979f2a38c)
 
-- 💬 Pregúntame sobre **Android y Kotlin**
+- 💬 Ask me about **Android and Kotlin**
 
-- 📫 Mi correo de contacto es **umadrigalc@gmail.com**
+- 📫 My email is **umadrigalc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
